@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fatehmmmdli/Projects/Homework/Homework/Homework.csproj": {}
+    "/Users/fatehmmmdli/Projects/Homework12/Homework12/Homework12.csproj": {}
   },
   "projects": {
-    "/Users/fatehmmmdli/Projects/Homework/Homework/Homework.csproj": {
+    "/Users/fatehmmmdli/Projects/Homework12/Homework12/Homework12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fatehmmmdli/Projects/Homework/Homework/Homework.csproj",
-        "projectName": "Homework",
-        "projectPath": "/Users/fatehmmmdli/Projects/Homework/Homework/Homework.csproj",
+        "projectUniqueName": "/Users/fatehmmmdli/Projects/Homework12/Homework12/Homework12.csproj",
+        "projectName": "Homework12",
+        "projectPath": "/Users/fatehmmmdli/Projects/Homework12/Homework12/Homework12.csproj",
         "packagesPath": "/Users/fatehmmmdli/.nuget/packages/",
-        "outputPath": "/Users/fatehmmmdli/Projects/Homework/Homework/obj/",
+        "outputPath": "/Users/fatehmmmdli/Projects/Homework12/Homework12/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fatehmmmdli/.nuget/NuGet/NuGet.Config"

@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Homework
+namespace Homework12
 {
 	public class Product
 	{
@@ -12,7 +12,6 @@ namespace Homework
 		public int Count;
 
 		
-
 	}
 }
 
